@@ -1,7 +1,8 @@
-### Hi there 👋
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmol007&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol007&layout=compact&theme=radical)
 
 <!--
-**Anmol007/anmol007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anmol007/anmol007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
